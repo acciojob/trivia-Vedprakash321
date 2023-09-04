@@ -2,9 +2,12 @@
 /* Your CSS Code here. */
 
 
+p{
+	 font-weight: bold;
+}
+ 
 
-
-       
+        /* Styles for the quotation text */
         blockquote {
 	      max-width: 600px;
           margin: 10px;
